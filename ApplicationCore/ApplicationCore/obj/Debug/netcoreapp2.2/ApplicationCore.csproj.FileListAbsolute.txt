@@ -1,0 +1,14 @@
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.csprojAssemblyReference.cache
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.RazorAssemblyInfo.cache
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.RazorAssemblyInfo.cs
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.AssemblyInfoInputs.cache
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.AssemblyInfo.cs
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.deps.json
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.runtimeconfig.json
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.runtimeconfig.dev.json
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.RazorTargetAssemblyInfo.cache
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.dll
+D:\Angular8\CoreApi\ApplicationCore\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.pdb
